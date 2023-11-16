@@ -10,11 +10,11 @@ const options = {
   },
 
   identity: {
-    username: 'ribbingbot',
-    password: 'oauth:nucqwqv5gl68i3j7y9ue1rej6f5y39'
+    username: '',
+    password: ''
   },
 
-  channels: ['jakfrog'],
+  channels: [''],
 }
 
 const client = new tmi.client(options);
